@@ -29,7 +29,7 @@ Having a friendly face that's done it all before can massively reduce the pressu
 
 Many conferences now offer an official after party. Often a [sponsor](#sponsors) slot will be dedicated to purely sponsoring the after party activities, food, or bar tab.
 
-If you're offering a free bar tab, or drinks/food tokens, this needs to be managed carefully especially if the after party is hosted in an area where members of the public may roam in. Wrist bands, physical tokens, or even conference badges can be used as a validation method that the person asking for a free round of drinks was a genuine attendee.
+If you're offering a free bar tab, or drinks/food tokens, this needs to be managed carefully especially if the after party is hosted in an area where members of the public may roam in. Wrist bands, physical tokens, or even conference badges can be used as a validation method that the person asking for a free round of drinks was a genuine attendee. Using drink tokens also prevents the problem where a time-limited free bar can cause some people to consume a large amount of alcohol in a short period of time.
 
 Considerations should be given towards attendees around the theme of the after party. For example: if the after party is a BBQ event, that might not cater for vegans/vegetarians. Similarly, if the after party is solely based around free alcoholic drinks, attendees may be non-drinkers.
 
@@ -150,9 +150,17 @@ Arguably the most nervewracking part of putting together a conference is the sub
 
 Some people may be nervous about applying and feel the need for [mentorship](#speaker-mentorship), regardless if they're a first time speaker or not. It's worth highlighting on the CFP if you intend to provide [mentorship](#speaker-mentorship), should the speaker choose it.
 
+If you want to attract submissions from a more diverse range of people, you should be prepared to put effort to make it work. For example, if you want to have more women submitting, you may need to signal-boost with organisations like Women Techmakers, and so on. One thing that can help a lot is by having diversity in your keynote speakers and having them announced before you open the CFP. 
+
 ### Sift
 
 Sifting through CFPs can feel like a daunting task, especially if you've received a large number. It's highly recommended to have a cohort of people to review talks to avoid any bias and have a scoring system in place to rank various talks based on general fit, theme, topic, etc. This cohort doesn't even need to be just organisers, or volunteers - many conferences benefit from a vast review team adding comments and giving their thoughts and opinions.
+
+### Build yout timetable
+
+Once you have a list of talks that could be in the conference, you need to actually assemble the timetable. Important things to bear in mind are:
+
+
 
 ### Accepting and rejecting
 
@@ -278,7 +286,7 @@ It's worth considering opening up sponsorship to smaller start-ups and community
 
 Many conferences give swag to attendees and speakers.
 
-As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later?
+As a speaker or attendee, swag is nice to receive but it shouldn't be something that is expected. Budgets can be limited, and size based swag (like t-shirts) can be a nightmare to accurately predict. Swag should be seen as a "nice to have" rather than a "must have" using the leftover budget from the sponsors. There's a sustainability aspect to swag to consider, is it a t-shirt that will fade after a couple of washes, or a gimmick which is discarded or broken a week later? Be especially careful adding sponsor branding to "optional" swag (for example, tote bags or lanyards) as this will prevent you being able to use it in following years. 
 
 ## Task management
 
