@@ -5,7 +5,7 @@ While new and first time speakers will get the most benefit out of a speaker sup
 ## The “How To Apply To A Conference” workshop
 
 Ideally you should run this workshop early in the CFP period for your conference. This workshop can be run as a three hour evening event, or it can easily be adapted into an all*day event. This works best with a relatively small number of attendees (less than 20) and a relatively high proportion of facilitators (at least one for every four or five attendees).
- The following is how the event has been run in Belfast, and can easily be modified to fit your preference. Slides that accompanied this version of the event [can be found here](https://www.slideshare.net/slideshow/conference*applications*workshoppptx/259546391). Handouts summarizing the slides that can be printed out and given to the attendees [can be found here](https://www.slideshare.net/slideshow/how*to*apply*to*conferences*handout*sheets/268624737).
+ The following is how the event has been run in Belfast, and can easily be modified to fit your preference. Slides that accompanied this version of the event [can be found here](https://www.slideshare.net/slideshow/conference-applications-workshoppptx/259546391). Handouts summarizing the slides that can be printed out and given to the attendees [can be found here](https://www.slideshare.net/slideshow/how-to-apply-to-conferences-handout-sheets/268624737).
 
 ### Part 1: What does applying to a conference involve?
 
