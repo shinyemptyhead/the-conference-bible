@@ -24,6 +24,7 @@ Documentation is split into the following sections:
 * [Organisation and planning](organisation_and_planning.md)
 * [Types of conference](types_of_conference.md)
 * [Types of speaker](types_of_speaker.md)
+* [Speaker Support](speaker_support.md)
 * [Virtual Community](virtual_community.md)
 * [Venue](venue.md)
 * [Tracks, workshops, and villages](tracks_workshops_villages.md)
